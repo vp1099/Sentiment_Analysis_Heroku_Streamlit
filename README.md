@@ -1,8 +1,8 @@
-#  Sentiment-Analysis-Major-Project 
+#  Sentiment-Analysis-Major-Project : Using ML model and then Hosting on Heroku and Streamlit:
 
 This is a real world project on Sentiment Analysis which takes in text input from the user and predicts if the sentiment of the text is positive or negative.
 
-# Steps followed in making the project 
+The Following steps Were Followed For Completing This Project:
 
   1. Gathering of data: The amazonreviews dataset from Kaggle was used for this project.
   
@@ -28,5 +28,6 @@ This is a real world project on Sentiment Analysis which takes in text input fro
 
 
 
-The following is the link to the web app:
-# https://sent-analysis-app.herokuapp.com/  
+ the link to the web app (Hosted On Heroku And Streamlit)
+
+Made By : Chaitanya Sarjerao Gomkar
