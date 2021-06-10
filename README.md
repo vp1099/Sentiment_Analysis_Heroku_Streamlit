@@ -31,4 +31,4 @@ The Following steps Were Followed For Completing This Project:
  the link to the web app (Hosted On Heroku And Streamlit):
  https://sentiment-analysis-major-proj.herokuapp.com/
 
-Made By : Chaitanya Sarjerao Gomkar
+
